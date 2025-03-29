@@ -1,4 +1,4 @@
-![Bruce Main Menu](./media/pictures/KING_KONG_banner.jpg)
+![KING KONG Main Menu](./media/pictures/KING_KONG_banner.jpg)
 
 #  *𝐊𝐈𝐍𝐆 𝐊𝐎𝐍𝐆*
 
